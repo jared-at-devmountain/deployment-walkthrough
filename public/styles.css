@@ -1,13 +1,14 @@
 * {
     font-family: sans-serif;
+    background-color: #aa99ee;
 }
 
 button {
     background-color: black;
     color: white;
     border: none;
-    border-right: 2px solid aqua;
-    border-bottom: 2px solid aqua;
+    border-right: 2px solid #aa99ee;
+    border-bottom: 2px solid #aa99ee;
     padding: 10px 20px;
     font-weight: bold;
 }
